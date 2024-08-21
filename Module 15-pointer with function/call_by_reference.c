@@ -1,7 +1,7 @@
 #include <stdio.h>
 void fun(int *ptr)
 {
-    *ptr = 20;
+    *ptr = 50;
 }
 int main()
 {
