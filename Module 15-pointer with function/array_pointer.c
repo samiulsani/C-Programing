@@ -6,5 +6,6 @@ int main()
     printf("%d", *ar + 1);
     // basically array first elements address er maddhome access kora hoi. ar amra jani je address manei pointer*. so, amara dereference er maddhomeo access korte pari.
 
+    printf("%d",*ar);
     return 0;
 }
